@@ -1,4 +1,4 @@
-# Earthquake Prediction Using Machine Learning Models :earthquake:
+# Earthquake Prediction Using Machine Learning Models:
 
 Welcome to the Earthquake Prediction project! :tada: This project focuses on utilizing machine learning techniques to predict earthquakes based on historical seismic data. The following sections provide an overview of the project's goals, resources, data preparation, model selection, innovation, and conclusions.
 
